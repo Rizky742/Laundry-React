@@ -6,7 +6,7 @@ import Fade from 'react-reveal/Fade';
 
 function home() {
   return (
-    <div className="container">
+    <div className="container mx-auto">
       <div className="flex">
         <div className='w-6/12'>
           <Fade left>
