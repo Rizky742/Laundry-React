@@ -21,8 +21,6 @@ lalu kita download tailwind
 
 ### `npm install -D tailwindcss postcss autoprefixer `
 
-### `npx tailwindcss init`
-
 lalu tinggal kita start
 
 ### `npm start`
