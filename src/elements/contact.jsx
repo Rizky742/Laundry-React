@@ -1,0 +1,15 @@
+import React from 'react'
+import Fade from 'react-reveal/Fade';
+function contact() {
+  return (
+    <div className="container">
+            <Fade left>
+            <h1 className='text-5xl text-center items-center font-reem justify-center'>
+                PAGE IS UNDER MAINTANCE
+            </h1>
+            </Fade>
+        </div>
+  )
+}
+
+export default contact
