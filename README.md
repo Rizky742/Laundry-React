@@ -7,9 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 pertama
-### `npm install`
-
-lalu download react-router-dom
 
 ### `npm install react-router-dom`
 
