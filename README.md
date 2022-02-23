@@ -15,7 +15,7 @@ lalu download react-router-dom
 
 lalu kita download react-reveal
 
-### `npm install-react-reveal`
+### `npm install react-reveal`
 
 lalu kita download tailwind
 
