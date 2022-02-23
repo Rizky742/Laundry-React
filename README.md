@@ -23,6 +23,8 @@ lalu kita download tailwind
 
 ### `npx tailwindcss init`
 
+lalu tinggal kita start
+
 ### `npm start`
 
 Runs the app in the development mode.\
