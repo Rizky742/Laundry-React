@@ -13,6 +13,10 @@ lalu download react-router-dom
 
 ### `npm install react-router-dom`
 
+lalu kita download react-script
+
+### `npm install react-scripts`
+
 lalu kita download react-reveal
 
 ### `npm install react-reveal`
