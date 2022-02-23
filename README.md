@@ -6,7 +6,22 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+pertama
 ### `npm install`
+
+lalu download react-router-dom
+
+### `npm install react-router-dom`
+
+lalu kita download react-reveal
+
+### `npm install-react-reveal`
+
+lalu kita download tailwind
+
+### `npm install -D tailwindcss postcss autoprefixer `
+
+### `npx tailwindcss init`
 
 ### `npm start`
 
